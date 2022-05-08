@@ -10,4 +10,9 @@
 - Google Analytics 
 ## Website Link
 [Lizzy's Web](https://zilingli.com/)
+## What I learned 
+- Search for templates 
+- Modify the template in html and style sheet 
+- Add images
+- Use visual studio code
 
